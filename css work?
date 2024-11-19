@@ -1,0 +1,304 @@
+
+.backgroundContainer {
+    background-color: #100000;
+}
+    .skinHeader-withBackground {
+    background-color: #000000;
+}
+    .emby-tab-button:hover {
+    color: #b70000;
+}
+    .emby-tab-button-active {
+    color: #ff0000;
+}
+    .paper-icon-button-light:hover:not(:disabled) {
+        color: #ff0000;
+        background-color: rgb(220 0 0 / 20%);
+}
+    .mainDrawer, .drawer-open {
+    background-color: #100000;
+}
+    .emby-button {
+    transition: none;
+}
+    .navMenuOption:hover {
+    background: #000000;
+    border-left: 3px solid red;
+}
+.css-nc0a08 {
+    background-color: black;
+}
+    .itemProgressBar {
+    background: rgb(0 0 0);
+}
+    .itemProgressBarForeground {
+    background-color: #dc0000;
+}
+    .pageTitleWithDefaultLogo {
+    background-image: url(https://raw.githubusercontent.com/nick123456789025/Random-files/refs/heads/main/banner-light.png);
+}
+    .cardBox:not(.visualCardBox) .cardPadder {
+    background-color: #24242400;
+    box-shadow: none;
+}
+    .cardOverlayContainer {
+    background: rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+    .button-link {
+    color: #ff0000;
+}  
+    .css-17c09up:hover {
+    text-decoration: none;
+    background: #000000;
+    border-left: 3px solid red;
+}
+    .css-1ip8vbj:hover {
+    text-decoration: none;
+    background-color: rgb(255 0 0 / 11%);
+}.css-1kqypig {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-align: center;
+    color: inherit;
+    font-size: 1.75rem;
+    outline: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    margin: 0px -12px 0px 0px;
+    text-decoration: none;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    overflow: visible;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 0px;
+}
+    .css-17c09up.Mui-selected, .css-1ip8vbj.Mui-selected {
+    background: #000000;
+    border-left: 3px solid red;
+    color: red;
+    border-bottom: 2px solid red;
+}
+    .css-37qkju {
+    color: rgb(255 0 0);
+    flex-shrink: 0;
+    display: inline-flex;
+    min-width: 36px;
+}
+    .css-17c09up.Mui-selected:hover, .css-1ip8vbj.Mui-selected:hover {
+    background-color: #0000;
+} 
+    .css-667gdg.Mui-selected {
+    color: rgb(255 255 255);
+    background-color: rgb(255 0 0);
+}
+    .css-667gdg.Mui-selected:hover {
+    background-color: #b70000;
+}
+    .css-4yt2of {
+    background-color: #000;
+}
+   .css-kvlks5 {
+    background-color: rgb(255, 0, 0);
+    border: 1px solid #f00
+}
+    .dialog:not(.actionSheetContent):not(.actionSheetScroller):not(.actionSheet) {
+    background-color: #200000;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+    .button-submit, .button-submit:focus, .raised, .raised:focus {
+    background: #000;
+    color: #ff0000;
+    border-radius: 20px;
+    border: 1px solid red;
+}    
+    .backgroundProgress>div {
+    background-color: #000 ;
+}  
+    .playbackProgress>div {
+    background-color: #ff0000;
+}
+    .visualCardBox {
+    background-color: rgb(0, 0, 0) !important;
+}
+   .cardContent, .visualCardBox {
+    border-radius: 10px;
+    }
+  .actionSheetScroller {
+    background-color: #0000
+}  
+    .defaultCardBackground1 {
+    background-color: #5c0000;
+}
+    .defaultCardBackground2 {
+    background-color: #db0c0c;
+}
+    .defaultCardBackground3 {
+    background-color: #db0000;
+}
+    .defaultCardBackground4 {
+    background-color: #5e0202;
+}
+    
+    .serverInfo {
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: #000000 !important;
+}
+    .cardBox {
+    border: 2px solid #0000 !important;
+}
+    .listItem {
+    background-color: black;
+}
+
+  .css-1aaapa3, .css-1295fc2 {
+    align-items: flex-start;
+    background-color: #000;  
+}
+
+    .css-dlg340 {
+    background-color:  #000000 !important;
+}
+    .css-1toc1g5, .css-2j9z2c, .css-5c47yo, .css-1g9k3fn, .css-149t56k, .css-149t56k, .css-949vxu, .css-1vrqlyr, .css-udlpj8l, .css-l183c1, .css-udlpj8 {
+    border-bottom: 1px solid rgb(255 0 0);
+}
+    .css-1p1d6ke {
+    background-color: rgb(0 0 0);
+}
+    .css-a3p47p, .css-1vviwlh {
+    align-items: flex-start;
+    background-color: #000;
+}
+    .emby-select-withcolor, .emby-input{
+    background: #000000;
+    border: 0.07em solid #7f0000;
+}
+    .emby-input:focus {
+    border-color: #dc0000;
+}
+   .emby-select-withcolor:focus {
+    border-color: #f00 !important;
+} 
+    .emby-select-withcolor > option {
+    color: white;
+    background: #000000;
+}
+    .inputLabelFocused, .selectLabelFocused, .textareaLabelFocused {
+    color: #000;
+}
+.inputLabelFocused, .selectLabelFocused, .textareaLabelFocused {
+    color: #f00;
+}  
+    .headerHelpButton {
+    padding-bottom: 0em !important;
+    padding-top: 0em !important;
+    background-color: transparent !important;
+    border: none !important;
+    margin-left: 13px;
+} 
+    .emby-checkbox:checked + span + .checkboxOutline {
+    border-color: #fff0;
+}
+    .emby-checkbox:focus:not(:checked) + span + .checkboxOutline {
+    border-color: #ff0000;
+}
+    .checkboxOutline {
+    border-color: rgb(255 0 0);
+}
+    .checkboxIcon {
+    color: rgb(255 0 0);
+    font-size: 1.6em;
+}
+    .emby-checkbox:checked + span + .checkboxOutline{
+    background-color: rgb(0, 0, 0);
+    border-color: red;
+}
+    
+.paperList:not(.actionSheetScroller) {
+    border-bottom: none;
+    border-radius: 20px;
+}
+    [dir=ltr] .listItem:not(.actionSheetMenuItem) {
+    padding: 0;
+    text-align: left;
+}
+    .listItem:hover {
+    background: #6c0000;
+}
+
+ .listItem:not(.actionSheetMenuItem) {
+    border-radius: 0; 
+    border: 2px solid red !important;
+}
+
+ .listItem:first-child:not(.actionSheetMenuItem) {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-color: red !important;
+    border-bottom: none !important;
+}
+
+ .listItem:last-child:not(.actionSheetMenuItem) {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: none !important;
+}
+.listItem:not(:first-child):not(:last-child):not(.actionSheetMenuItem) {
+   border-bottom: none !important;
+   border-top: none !important;
+}
+    
+.collapseContent, .formDialogFooter:not(.formDialogFooter-clear), .formDialogHeader:not(.formDialogHeader-clear), .paperList, .visualCardBox {
+    background-color: #ff010100;
+}
+   
+.mdl-spinner__circle-clipper {
+    border-color: red;   
+}
+    .actionsheet-not-fullscreen {
+    background-color: #000;
+    border: 2px solid red;
+    border-radius: 20px !important;
+}
+.verticalSection .emby-button .listItem,
+.adminSection .emby-button .listItem,
+.userSection .emby-button .listItem
+    {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    background-color: #0000
+}
+.metadataSidebarIcon {
+    color: #9d0000;
+}
+    .emby-textarea {
+    background: #000000;
+    border: 0.16em solid #292929;
+}
+    .jstree-default .jstree-wholerow-clicked {
+    background: #dc0000 !important;
+}
+    .jstree-default .jstree-wholerow-hovered {
+    background: #690000 !important;
+}
+}
